@@ -1,0 +1,41 @@
+html, body {
+    height:100%;
+    color: #000; 
+    background: #FFFFFF;
+    word-wrap: break-word;
+    font-size: 12px; 
+    font-family: Verdana, Arial, Sans-Serif; 
+  
+  }
+  #wrapper {
+    height:auto !important;
+    height:100%;
+    min-height:100%;
+  }
+  #header {
+    height:100px;
+  }
+  #container {
+    min-width:800px;
+  } 
+  #center {
+    margin:0px 200px 0px 200px;
+  }
+  #left {
+    float:left; 
+    width:200px;
+  }
+  #right {
+    float:right; 
+    width:200px;
+  }
+  #footer {
+    height:100px;
+    margin-top:-100px;
+  } 
+  .clear {
+    clear:both;
+  }
+  #space {
+    height:100px;
+  } 
